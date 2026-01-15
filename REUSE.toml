@@ -7,5 +7,5 @@ SPDX-PackageComment = "iOS support layer of MagicLane Maps SDK for Flutter."
 [[annotations]]
 path = "**"
 precedence = "aggregate"
-SPDX-FileCopyrightText = "1995-2025 Magic Lane International B.V. <info@magiclane.com>"
+SPDX-FileCopyrightText = "2023-2026 Magic Lane International B.V. <info@magiclane.com>"
 SPDX-License-Identifier = "LicenseRef-MagicLane-Proprietary"

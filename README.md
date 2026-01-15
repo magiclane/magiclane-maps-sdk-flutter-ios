@@ -15,7 +15,7 @@ Thank you for using the Magic Lane Maps SDK for Flutter.
 
 ## License
 
-Copyright (C) 1995-2025 Magic Lane International B.V. <info@magiclane.com>
+Copyright (C) 2023-2026 Magic Lane International B.V. <info@magiclane.com>
 
 See the [LICENSE](LICENSES/LicenseRef-MagicLane-Proprietary.txt) for copyright and license information. 
 Please review the terms and conditions before using this software in your projects.
