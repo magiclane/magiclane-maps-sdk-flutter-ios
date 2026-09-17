@@ -18,8 +18,8 @@ let package = Package(
      targets: [
         .binaryTarget(
             name: "GEMKit",
-            url: "https://developer.magiclane.com/packages/ios/flutter/3.1.11/GEMKit.xcframework.zip",
-            checksum: "32ad3dad083a4aa682effbbdfdc126f28ba21204beadd936bb00b9d2a29d3e69"
+            url: "https://developer.magiclane.com/packages/ios/flutter/3.1.12/GEMKit.xcframework.zip",
+            checksum: "4939316cb8a7a55df91e22dbd39ae6795dea02e90743c366cf536868d45b880f"
         )
     ]
 )
